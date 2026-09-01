@@ -1,0 +1,27 @@
+-- > What is Programming?
+
+Just like we use Hindi or English to communicate with each other, we use programming languages like
+Python to communicate with computers.
+Programming is the process of giving instructions to a computer so it can perform tasks, solve
+problems, and automate work.
+
+-- > What is Python? ( Guido Van Rossom - 1991 )
+
+Python is one of the easiest and most beginner friendly programming languages. Its syntax feels close
+to simple English which makes it easy to read, write, and understand.
+Python is widely used in web development, automation, artificial intelligence, machine learning, data
+science, and software development.
+
+-- > Features of Python
+
+1) Easy to learn and beginner friendly syntax.
+2) Free and open source programming language.
+3) Works on Windows, Linux, and Mac systems.
+4) Widely used in modern technologies and AI.
+
+--> Installation 
+1) Install Python from www.python.org
+2) Install IDE ( VS CODE ) and Extensions 
+
+--> Running Program 
+- Terminal python file Name 
